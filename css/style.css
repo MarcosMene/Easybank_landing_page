@@ -902,7 +902,7 @@ p {
 .footer_nav_list .ft_nav_item {
   margin-bottom: 1em;
   color: var(--white);
-  text-align:left;
+  text-align:center;
 }
 
 .footer .ft_nav_item a {
@@ -1009,7 +1009,7 @@ p {
     height: 100px;
   }
 
-  .footer_nav_list .nav_item {
+  .footer_nav_list .ft_nav_item {
     text-align: left;
     font-size: 0.8em;
   }
